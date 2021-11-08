@@ -1,3 +1,5 @@
 Đây là file quản lý dự án của nhóm 2
 
-Đây là Nguyễn Tuấn Anh nha, và cả Bùi Anh Vũ nữa
+Đây là Nguyễn Tuấn Anh nha
+
+Bùi Anh Vũ đã chỉnh sửa nha
